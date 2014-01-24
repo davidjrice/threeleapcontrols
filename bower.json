@@ -1,18 +1,18 @@
 {
-name: "threex.leapcontrols",
-version: "0.1",
-homepage: "https://github.com/davidjrice/threex.leapcontrols",
-description: "JavaScript client for the Leap Motion Controller",
-main: "LeapControls.js",
-keywords: [
-"leap",
-"leapmotion"
-],
-ignore: [
-"**/.*",
-"node_modules",
-"bower_components",
-"test",
-"tests"
-]
+  name: "threex.leapcontrols",
+  version: "0.1",
+  homepage: "https://github.com/davidjrice/threex.leapcontrols",
+  description: "JavaScript client for the Leap Motion Controller",
+  main: "LeapControls.js",
+  keywords: [
+    "leap",
+    "leapmotion"
+  ],
+  ignore: [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
